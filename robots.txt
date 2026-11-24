@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://mattylll.github.io/hcf-classic-2026-q4-06-classic-car-finance-collection/sitemap.xml
